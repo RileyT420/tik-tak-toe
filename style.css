@@ -1,4 +1,5 @@
 .cell{
+
   color:red;
     width: 150px;
     height: 150px;
@@ -33,10 +34,9 @@ body {
 
 }
 .h2{
-  margin-top: 150px;
+  margin-top: 220px;
 
 }
 .Btn{
   background-color:yellow;
-
 }
